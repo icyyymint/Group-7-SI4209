@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url(img/bg-paw.png);
+    background-color: #ffffff;
+    background-size: cover;
+    height: 350px;
+    text-align: center;
+}
+
+
+.jumbotron .lead {
+    margin-bottom: 30px;
+}
