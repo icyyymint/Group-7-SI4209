@@ -9,4 +9,4 @@ Berikut ini anggota kelompok 7.
 5. alif rafi kurnia - 1202184233
 
 Deskripsi Proyek Website :
-Kami membuat website bernama Telkom Cat Rescue, website ini memudahkan adopsi kucing dan membantu kucing terlantar di dearah kampus Telkom University.
+Kami membuat website bernama Telkom Cat Rescue, website ini memudahkan adopsi kucing dan membantu kucing terlantar melalui di dearah kampus Telkom University.
